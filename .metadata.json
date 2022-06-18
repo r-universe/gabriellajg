@@ -1,0 +1,10 @@
+[
+  {
+    "package": "boot.heterogeneity",
+    "oncran": true
+  },
+  {
+    "package": "equaltestMI",
+    "oncran": true
+  }
+]
