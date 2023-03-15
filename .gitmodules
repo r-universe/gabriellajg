@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "boot.heterogeneity"]
-	path = boot.heterogeneity
-	url = https://github.com/gabriellajg/boot.heterogeneity
-	shallow = true
-	registered = true
 [submodule "equaltestMI"]
 	path = equaltestMI
 	url = https://github.com/gabriellajg/equaltestmi
+	shallow = true
+	registered = true
+[submodule "boot.heterogeneity"]
+	path = boot.heterogeneity
+	url = https://github.com/gabriellajg/boot.heterogeneity
 	shallow = true
 	registered = true
