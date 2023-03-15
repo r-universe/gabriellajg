@@ -1,10 +1,10 @@
 [
   {
-    "package": "equaltestMI",
+    "package": "boot.heterogeneity",
     "oncran": true
   },
   {
-    "package": "boot.heterogeneity",
+    "package": "equaltestMI",
     "oncran": true
   }
 ]
